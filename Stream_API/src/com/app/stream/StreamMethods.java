@@ -152,6 +152,7 @@ public class StreamMethods {
 	public static void main(String[] args) {		
 
 		//		of();
+		
 		//		filter();
 		//		map();
 		//		collect();
