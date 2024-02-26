@@ -163,6 +163,7 @@ public class StreamMethods {
 		//		toArray();
 		//		allMatch();
 		//		distinct();
+		
 		reduce();
 
 
